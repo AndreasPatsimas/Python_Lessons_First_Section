@@ -13,3 +13,5 @@ call_message = "yo mana" if is_yo else "yo patera"
 # python: not, or, and , is
 
 print(call_message)
+
+print(type(is_yo))
