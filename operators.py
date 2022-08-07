@@ -14,4 +14,4 @@ call_message = "yo mana" if is_yo else "yo patera"
 
 print(call_message)
 
-print(type(is_yo))
+print(type(is_yo))  # type of the variable
