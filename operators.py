@@ -15,3 +15,11 @@ call_message = "yo mana" if is_yo else "yo patera"
 print(call_message)
 
 print(type(is_yo))  # type of the variable
+
+print(2 ** 3)
+print(5 // 2)
+print(5 % 2)
+
+# math function
+print(round(3.9))
+print(abs(-20))

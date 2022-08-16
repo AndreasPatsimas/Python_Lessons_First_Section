@@ -19,3 +19,6 @@ print(new_shop_list)
 # list unpacking
 a,b,c = shop_list
 print(a)
+
+tzogos_list = list("watermelon")
+print("tzogos: ", tzogos_list)

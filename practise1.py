@@ -1,7 +1,7 @@
-print( type("sd") )
+print(type("sd"))
 
-print( 2 ** 3 ) # power of
-print( 5 // 3 ) # round down
+print(2 ** 3)  # power of
+print(5 // 3)  # round down
 
 name = float(6)
 print(name)
@@ -24,4 +24,17 @@ Where are you from?
 
 '''
 
-print(long_string)
+
+def test(par):
+    '''
+
+    test volunteers
+    '''
+    print(par)
+    pass
+
+
+test(long_string)
+help(test)
+
+print(test.__doc__)
